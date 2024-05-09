@@ -35,6 +35,7 @@ namespace lessons1
                 else
                 {
                     Console.WriteLine("Не верно попробуйте еще раз");
+                    Console.WriteLine("Вас ждет успех!");
                 }
 
                 
