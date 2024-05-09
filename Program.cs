@@ -44,6 +44,7 @@ namespace lessons1
             if (triesCount <0)
             {
                 Console.WriteLine("Вы проиграли! Это было число " + number + ".");
+                Console.WriteLine($"{userInput}");
             }
             
         }
